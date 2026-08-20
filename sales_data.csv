@@ -1,0 +1,49 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Sales,Profit
+1001,2025-01-05,Laptop,Electronics,North,2,120000,18000
+1002,2025-01-08,Mouse,Electronics,South,5,5000,1500
+1003,2025-01-12,Chair,Furniture,East,4,16000,4000
+1004,2025-01-18,Notebook,Office Supplies,West,20,4000,1200
+1005,2025-02-03,Mobile,Electronics,North,3,60000,9000
+1006,2025-02-07,Table,Furniture,South,2,24000,6000
+1007,2025-02-15,Pen,Office Supplies,East,50,2500,750
+1008,2025-02-21,Headphones,Electronics,West,6,12000,3000
+1009,2025-03-02,Printer,Electronics,North,2,30000,5000
+1010,2025-03-09,Desk,Furniture,South,3,27000,7000
+1011,2025-03-14,File Folder,Office Supplies,East,30,4500,1400
+1012,2025-03-20,Keyboard,Electronics,West,5,7500,1800
+1013,2025-04-04,Monitor,Electronics,North,3,45000,7000
+1014,2025-04-11,Sofa,Furniture,South,1,35000,8000
+1015,2025-04-17,Stapler,Office Supplies,East,15,3000,900
+1016,2025-04-25,Webcam,Electronics,West,4,10000,2500
+1017,2025-05-03,Tablet,Electronics,North,3,45000,6000
+1018,2025-05-08,Cabinet,Furniture,South,2,18000,4500
+1019,2025-05-16,Marker,Office Supplies,East,25,3750,1000
+1020,2025-05-23,Speaker,Electronics,West,5,15000,3500
+1021,2025-06-02,Laptop,Electronics,North,1,60000,9000
+1022,2025-06-10,Chair,Furniture,South,5,20000,5000
+1023,2025-06-18,Notebook,Office Supplies,East,40,8000,2400
+1024,2025-06-26,Mouse,Electronics,West,8,8000,2400
+1025,2025-07-05,Mobile,Electronics,North,4,80000,12000
+1026,2025-07-12,Table,Furniture,South,3,36000,9000
+1027,2025-07-19,Pen,Office Supplies,East,60,3000,900
+1028,2025-07-27,Headphones,Electronics,West,7,14000,3500
+1029,2025-08-04,Printer,Electronics,North,2,30000,5000
+1030,2025-08-11,Desk,Furniture,South,4,36000,9000
+1031,2025-08-18,File Folder,Office Supplies,East,35,5250,1600
+1032,2025-08-25,Keyboard,Electronics,West,6,9000,2200
+1033,2025-09-03,Monitor,Electronics,North,2,30000,5000
+1034,2025-09-10,Sofa,Furniture,South,1,35000,8000
+1035,2025-09-17,Stapler,Office Supplies,East,20,4000,1200
+1036,2025-09-24,Webcam,Electronics,West,5,12500,3000
+1037,2025-10-05,Tablet,Electronics,North,2,30000,4000
+1038,2025-10-12,Cabinet,Furniture,South,3,27000,7000
+1039,2025-10-19,Marker,Office Supplies,East,30,4500,1200
+1040,2025-10-26,Speaker,Electronics,West,6,18000,4200
+1041,2025-11-04,Laptop,Electronics,North,2,120000,18000
+1042,2025-11-11,Chair,Furniture,South,6,24000,6000
+1043,2025-11-18,Notebook,Office Supplies,East,50,10000,3000
+1044,2025-11-25,Mouse,Electronics,West,10,10000,3000
+1045,2025-12-03,Mobile,Electronics,North,5,100000,15000
+1046,2025-12-10,Table,Furniture,South,4,48000,12000
+1047,2025-12-17,Pen,Office Supplies,East,70,3500,1050
+1048,2025-12-24,Headphones,Electronics,West,8,16000,4000
